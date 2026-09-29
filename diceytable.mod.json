@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "Casino",
   "name": "Casino",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -15,6 +15,8 @@
     "media/screenshot-2.webp",
     "media/screenshot-3.webp",
     "media/screenshot-4.webp",
+    "media/screenshot-5.webp",
+    "media/screenshot-6.webp",
     "models/casino-room.web.glb",
     "models/casino-room.web.meta.json",
     "skies/casino-sky.hdr",
@@ -38,7 +40,10 @@
     "casino",
     "game-room",
     "modern",
-    "vegas"
+    "vegas",
+    "chandelier",
+    "domed",
+    "bar"
   ],
   "credits": [
     {
@@ -109,14 +114,52 @@
         "acceptedAt": "2026-09-29T17:08:14.878Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-31a9f20c-1bf2-4030-93b6-08020060b41b",
+      "paths": [
+        "media/screenshot-5.webp",
+        "media/screenshot-6.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T18:03:20.499Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T18:03:20.499Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "slug": "poker",
-  "description": "Casino",
-  "summary": "Casino",
+  "description": "## The Grand Casino\n\nStep off the felt and into a high-stakes gaming hall. Your table sits at the heart of the casino\nfloor on an inlaid medallion rug, framed by a velvet rope and four black-and-gold marble columns.\nOverhead, a domed ceiling glows around a three-tier crystal chandelier, while deep burgundy carpet\nand damask walls stretch out on every side.\n\nThe room is alive with the trappings of a night on the town. Roulette wheels and half-moon\nblackjack tables wait for players. Ten banks of slot machines line the walls beneath pink\n\"JACKPOT\" neon, with Lucky 7s, Diamond Deluxe, Golden Bells and Triple Bar spinning on their\nscreens. At one end, a long marble-topped bar glows under its \"Cocktails\" sign; at the other, the\nbrass-barred cashier's cage sits beneath a bulb-lit CASINO marquee.\n\nEverything around you is lit and reflected by a sky rendered from inside the casino itself, so\nthe gold, glass and polished wood of your table catch the room you are really in. Pair it with a\npoker table for a proper card room, or bring any game you like — the house always has a seat for\nyou.",
+  "summary": "A domed casino hall with a crystal chandelier.",
   "category": "room-lounge",
   "coverImage": "media/cover.webp",
   "screenshots": [
+    {
+      "path": "media/screenshot-5.webp",
+      "crop": {
+        "x": 0.08721973435298222,
+        "y": 0,
+        "w": 0.8732451916061057,
+        "h": 1
+      },
+      "title": "Casino with Poker Table",
+      "alt": "Casino with Poker Table",
+      "kind": "gameplay"
+    },
+    {
+      "path": "media/screenshot-6.webp",
+      "crop": {
+        "x": 0.06154332713582266,
+        "y": 0,
+        "w": 0.8732451916061057,
+        "h": 1
+      },
+      "title": "Casino with Poker Table",
+      "alt": "Casino with Poker Table",
+      "kind": "gameplay"
+    },
     {
       "path": "media/screenshot-0.webp",
       "crop": {
@@ -124,7 +167,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Casino",
+      "alt": "Casino",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-1.webp",
@@ -133,7 +179,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Casino",
+      "alt": "Casino",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-2.webp",
@@ -142,7 +191,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Casino",
+      "alt": "Casino",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-3.webp",
@@ -151,7 +203,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Casino",
+      "alt": "Casino",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-4.webp",
@@ -160,7 +215,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Casino",
+      "alt": "Casino",
+      "kind": "component"
     }
   ]
 }
