@@ -1,0 +1,25 @@
+{
+  "materialSlots": {
+    "Glass_Amber": "mat-c82f8033-0621-4ad0-98f6-cdd56f0002ec",
+    "Glass_Crystal": "mat-36376c10-1b32-4e82-9cb8-108285239aab",
+    "Metal_Gold": "mat-989d8d2b-8063-42c1-bbdb-d1558e0bdc37",
+    "Glass_Green": "mat-a190da16-f8b3-4d47-9f14-faee65c23ae6",
+    "Leather_Red": "mat-fee74ad9-b6be-45bc-be2c-acb8de339379",
+    "Marble_Black": "mat-c4c162fa-c76d-4167-84bf-ced36b602304",
+    "Mirror_Smoked": "mat-fbc1ab73-786d-42fe-963a-4ee8f8b9e81f",
+    "Light_Warm": "mat-7ace2d7e-346b-421e-b6bf-3ecce64b17e2",
+    "Wood_Dark": "mat-dcfe5560-5e27-46c6-aebf-3132ebee15d0",
+    "Slot_Cabinet": "mat-fe772501-ad17-40a2-a21a-809808d60340",
+    "Felt_Blackjack": "mat-eee85396-71ca-4be1-abb2-4c799c076125",
+    "Ceiling_Dark": "mat-55ecdc50-1654-49ea-9fb9-abd20830affb",
+    "Wall_Damask": "mat-be85fb51-2a8e-41c5-afe1-86e07048ddb4",
+    "Carpet_Casino": "mat-55a9d8b9-3879-468e-ae16-3cbd512cb282",
+    "Carpet_Medallion": "mat-cf4135cb-2b06-4913-ba39-5791bd6d109b",
+    "Felt_Roulette": "mat-d0c6c78f-9faf-4ad0-ad0b-a762f6c43bf2",
+    "Roulette_Wheel": "mat-60391c72-4ae2-45f6-87c7-20ac14ba3938",
+    "Neon_Cyan": "mat-88ebfaf1-f922-4989-abe4-1b719e441be8",
+    "Neon_Pink": "mat-5268c445-d067-43bd-87b2-be6dfdc0f934",
+    "Metal_Chrome": "mat-3b02f715-efaa-4c48-97c5-1d53d96b8628",
+    "Slot_Screen": "mat-2e06de92-155c-49a2-b048-9c94d3d8e10d"
+  }
+}
