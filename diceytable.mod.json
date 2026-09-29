@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0",
+  "id": "Casino",
+  "name": "Casino",
+  "version": "0.1.0",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
+    "media/screenshot-4.webp",
+    "models/casino-room.web.glb",
+    "models/casino-room.web.meta.json",
+    "textures/casino-room-web/blackjack-felt-51249ba6.webp",
+    "textures/casino-room-web/carpet-basecolor-e77c96f4.webp",
+    "textures/casino-room-web/damask-basecolor-12fa58d7.webp",
+    "textures/casino-room-web/marble-basecolor-1e5cccee.webp",
+    "textures/casino-room-web/medallion-basecolor-d1cc454f.webp",
+    "textures/casino-room-web/roulette-felt-262781c1.webp",
+    "textures/casino-room-web/roulette-wheel-122e2b85.webp",
+    "textures/casino-room-web/slots-atlas-c6632e34.webp",
+    "textures/casino-room-web/wood-basecolor-6bf7881f.webp",
+    "textures/casino-room-web/wood-normal-d4a4ca41.webp",
+    "textures/casino-room-web/wood-roughness-7ad7388e.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "casino",
+    "game-room",
+    "modern",
+    "vegas"
+  ],
+  "credits": [
+    {
+      "id": "credit-2cc069c6-caed-4f35-8283-02155a1c93c5",
+      "paths": [
+        "models/casino-room.web.glb",
+        "models/casino-room.web.meta.json",
+        "textures/casino-room-web/blackjack-felt-51249ba6.webp",
+        "textures/casino-room-web/carpet-basecolor-e77c96f4.webp",
+        "textures/casino-room-web/damask-basecolor-12fa58d7.webp",
+        "textures/casino-room-web/marble-basecolor-1e5cccee.webp",
+        "textures/casino-room-web/medallion-basecolor-d1cc454f.webp",
+        "textures/casino-room-web/roulette-felt-262781c1.webp",
+        "textures/casino-room-web/roulette-wheel-122e2b85.webp",
+        "textures/casino-room-web/slots-atlas-c6632e34.webp",
+        "textures/casino-room-web/wood-basecolor-6bf7881f.webp",
+        "textures/casino-room-web/wood-normal-d4a4ca41.webp",
+        "textures/casino-room-web/wood-roughness-7ad7388e.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:43:16.826Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:43:16.826Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-2ea99104-7aa8-4421-86c4-668da161034e",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:52:19.190Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:52:19.190Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-c409ea09-5718-4a4f-9f32-12394310516c",
+      "paths": [
+        "media/screenshot-0.webp",
+        "media/screenshot-1.webp",
+        "media/screenshot-2.webp",
+        "media/screenshot-3.webp",
+        "media/screenshot-4.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:52:33.423Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:52:33.423Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "poker",
+  "description": "Casino",
+  "summary": "Casino",
+  "category": "room-lounge",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  ]
+}
