@@ -182,6 +182,12 @@
       "width": 256,
       "height": 256
     },
+    "skies/casino-sky.hdr": {
+      "inputHash": "ae5c6789d7f10cc8",
+      "file": "thumbnails/skies/casino-sky.hdr.webp",
+      "width": 256,
+      "height": 128
+    },
     "textures/casino-room-web/blackjack-felt-51249ba6.webp": {
       "inputHash": "6fdc79eb0640d930",
       "file": "thumbnails/textures/casino-room-web/blackjack-felt-51249ba6.webp.webp",

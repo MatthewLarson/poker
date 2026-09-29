@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "Casino",
   "name": "Casino",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -17,6 +17,7 @@
     "media/screenshot-4.webp",
     "models/casino-room.web.glb",
     "models/casino-room.web.meta.json",
+    "skies/casino-sky.hdr",
     "textures/casino-room-web/blackjack-felt-51249ba6.webp",
     "textures/casino-room-web/carpet-basecolor-e77c96f4.webp",
     "textures/casino-room-web/damask-basecolor-12fa58d7.webp",
@@ -93,6 +94,19 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-29T16:52:33.423Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d2d1ce00-f1f8-4bc7-87a1-43ae1f4f34ef",
+      "paths": [
+        "skies/casino-sky.hdr"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T17:08:14.878Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T17:08:14.878Z",
         "signedName": "Matt Larson"
       }
     }
