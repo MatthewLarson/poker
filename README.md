@@ -8,21 +8,11 @@
 
 ## The Grand Casino
 
-Step off the felt and into a high-stakes gaming hall. Your table sits at the heart of the casino
-floor on an inlaid medallion rug, framed by a velvet rope and four black-and-gold marble columns.
-Overhead, a domed ceiling glows around a three-tier crystal chandelier, while deep burgundy carpet
-and damask walls stretch out on every side.
+Step off the felt and into a high-stakes gaming hall. Your table sits at the heart of the casino floor on an inlaid medallion rug, framed by a velvet rope and four black-and-gold marble columns. Overhead, a domed ceiling glows around a three-tier crystal chandelier, while deep burgundy carpet and damask walls stretch out on every side.
 
-The room is alive with the trappings of a night on the town. Roulette wheels and half-moon
-blackjack tables wait for players. Ten banks of slot machines line the walls beneath pink
-"JACKPOT" neon, with Lucky 7s, Diamond Deluxe, Golden Bells and Triple Bar spinning on their
-screens. At one end, a long marble-topped bar glows under its "Cocktails" sign; at the other, the
-brass-barred cashier's cage sits beneath a bulb-lit CASINO marquee.
+The room is alive with the trappings of a night on the town. Roulette wheels and half-moon blackjack tables wait for players. Ten banks of slot machines line the walls beneath pink "JACKPOT" neon, with Lucky 7s, Diamond Deluxe, Golden Bells and Triple Bar spinning on their screens. At one end, a long marble-topped bar glows under its "Cocktails" sign; at the other, the brass-barred cashier's cage sits beneath a bulb-lit CASINO marquee.
 
-Everything around you is lit and reflected by a sky rendered from inside the casino itself, so
-the gold, glass and polished wood of your table catch the room you are really in. Pair it with a
-poker table for a proper card room, or bring any game you like — the house always has a seat for
-you.
+Everything around you is lit and reflected by a sky rendered from inside the casino itself, so the gold, glass and polished wood of your table catch the room you are really in. Pair it with a poker table for a proper card room, or bring any game you like — the house always has a seat for you.
 
 ---
 
